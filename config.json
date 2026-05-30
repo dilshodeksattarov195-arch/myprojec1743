@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersync",
+        "uuid": 7533246,
+        "checksum": "z5m32d"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
